@@ -1,6 +1,4 @@
-[![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
-
-# Mac OS 9 'Sonata'
+# Mac OS 9 Platinum
 
 The classic look of Mac OS 9, now for GTK 3 desktops
 
@@ -12,13 +10,13 @@ The classic look of Mac OS 9, now for GTK 3 desktops
 - made application tabs square (removed border-radius)
 - added my PlatiNomNom XWFM4 theme (https://www.xfce-look.org/p/1016508) so the XFCE Window manager is covered as well.
 
-**Maintainer :** [Elbullazul](https://github.com/Elbullazul)
+**Maintainer :** [MarkyB86](https://github.com/MarkyB86)
 
-**Distributor :** [B00merang Project](https://github.com/B00merang-Project)
+**Original Work :** [Elbullazul](https://github.com/Elbullazul)
 
 **License :** GPL v3
 
-**More info :** http://b00merang.weebly.com/mac-os-9.html
+
 
 ### Manual installation
 
@@ -29,6 +27,4 @@ Extract the zip file to the themes directory i.e. `/home/USERNAME/.themes`
 - GTK+ 3.20 or above
 - Murrine and Pixmap theme engines
 
-### Contribute
 
-Contact us @ http://b00merang.weebly.com/contact.html
