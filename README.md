@@ -9,6 +9,7 @@ The classic look of Mac OS 9, now for GTK 3 desktops - Fixed for XFCE4 (modified
 - removed subtitle from 'tall' GTK styled windows, as in XFCE this caused overhang
 - made application tabs square (removed border-radius)
 - added my PlatiNomNom XWFM4 theme (https://www.xfce-look.org/p/1016508) so the XFCE Window manager is covered as well.
+- commented out the background imaged from 'tall' gtk3 titlebars, it does not scale correctly.
 
 **Maintainer :** [MarkyB86](https://github.com/MarkyB86)
 
