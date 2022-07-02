@@ -1,6 +1,6 @@
 # Mac OS 9 Platinum
 
-The classic look of Mac OS 9, now for GTK 3 desktops
+The classic look of Mac OS 9, now for GTK 3 desktops - Fixed for XFCE4 (modified and tested on Mint 20.3)
 
 ![mac-os-9-classic](https://github.com/markyb86/Mac-OS-9-Classic-XFCEfixes/blob/7b37d338cf2ed88e8f2b28ff4072d5684b1b5417/Mac-OS-9-theme.png)
 
